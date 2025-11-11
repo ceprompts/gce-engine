@@ -11,7 +11,7 @@ Auto-injects **real-time local context** into any prompt:
 ---
 
 ## Live Demo
-[Try GCE™ Now](https://YOURUSERNAME.github.io/gce-engine/gce.html)
+[Try GCE™ Now](https://ceprompts.github.io/gce-engine/gce.html)
 
 ---
 
